@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dembow-inspired-simple-synth-preview.mp3",
+  "preview_sha256": "83dd7767d24696d039a0423e91da2484fe9a26416db4862c22a1ee7a2687c1ef",
+  "source_midi_path": "midi/db01-repeat-frame/db01-repeat-frame-combined.mid",
+  "source_midi_sha256": "680f9493f9e81f5f3f23437aaad5600afd56eb83c3c41fcb6e741e2db91930ae",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "db01",
+    "start_seconds": 0,
+    "end_seconds": 66.207
+  },
+  "measurement": {
+    "sample_peak": 0.155834,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
