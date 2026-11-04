@@ -1,0 +1,26 @@
+{
+  "title": "Dembow-Inspired",
+  "study": "db01",
+  "bpm": 116,
+  "source_audio": "preview/dembow-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "83dd7767d24696d039a0423e91da2484fe9a26416db4862c22a1ee7a2687c1ef",
+  "source_midi": "midi/db01-repeat-frame/db01-repeat-frame-combined.mid",
+  "source_midi_sha256": "680f9493f9e81f5f3f23437aaad5600afd56eb83c3c41fcb6e741e2db91930ae",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "c2497fdfbc46c09ba57e88831e5fcb3ada9f9c2dcacefec4b687f0bf087f115e",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "3e61d375c742001cc556dab673550936eb41278aa990b0c64f4f7fd5e156e352",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "119862a2ee0953e10d247a81dbd50d98bd0b8ff13acc8b5b1bead99ac0cac473",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

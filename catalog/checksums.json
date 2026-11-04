@@ -12,6 +12,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 786,
+      "sha256": "3613798e593f6e6419e08fca97a049030fb387826d99328a1ede609185a0e2c6"
+    },
+    {
       "path": "README.md",
       "bytes": 3141,
       "sha256": "c1af93b31f12c6933a0e2935f2207daafcedf63963eb48b7c36bfaaf9a418e94"
@@ -92,9 +97,39 @@
       "sha256": "b7a4411676483255ec488019432ddbf0ab654baa935db74a3e6366f67c32a15c"
     },
     {
+      "path": "film/motion-artwork.webp",
+      "bytes": 103330,
+      "sha256": "3e61d375c742001cc556dab673550936eb41278aa990b0c64f4f7fd5e156e352"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1195,
+      "sha256": "7c11395a9ad53e510aa80a333372f3b7a26da7fb9dd032b66a3f4e507cd71749"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 3104,
+      "sha256": "32cc05c00931375f4b22a1bd09466498d5ff962b1656e179413aab18d1b5f03c"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 32759,
+      "sha256": "15ac4f6f8e112855e888b76d0d03b8cde18275b8194c189efb7d26d33eef5485"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 1033018,
+      "sha256": "119862a2ee0953e10d247a81dbd50d98bd0b8ff13acc8b5b1bead99ac0cac473"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "index.html",
-      "bytes": 8828,
-      "sha256": "045e53c5263906ddb58d1e32b594119f401cd5e79f32009ae70fbe48cdd8c65a"
+      "bytes": 9346,
+      "sha256": "5a2cdf2a5224d5c4d5336ada40c539e82c0b9eb0b42a26fb40eab7919c4df46f"
     },
     {
       "path": "midi/db01-repeat-frame/chord_pulse.mid",
@@ -265,6 +300,11 @@
       "path": "tools/build_release.py",
       "bytes": 47412,
       "sha256": "a3156f76517f4653a5a51ed4786dbc3390adf3b976691399e2d7b2570f69e54f"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",
