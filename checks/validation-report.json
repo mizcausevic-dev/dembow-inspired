@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:38.578618+00:00",
+  "run_time_utc": "2026-11-06T17:48:25.941187+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -20,8 +20,8 @@
     },
     {
       "path": "midi/db01-repeat-frame/db01-repeat-frame-combined.mid",
-      "bytes": 8179,
-      "sha256": "680f9493f9e81f5f3f23437aaad5600afd56eb83c3c41fcb6e741e2db91930ae",
+      "bytes": 7767,
+      "sha256": "9e2dd2c69ede438886af030f0c2ae20a38b3d5cde980a61ed105b5151ee388fd",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/db01-repeat-frame/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "a2b99fe4d2e1008937afbf8c0693ec1f9017cbf7c3543631abc82a677eb153b1",
+      "bytes": 1220,
+      "sha256": "7386505e8c01fe22c620bed9623a445a9ad2613a3074b9891918d0be8c18637c",
       "errors": []
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "path": "midi/db02-small-turn/db02-small-turn-combined.mid",
-      "bytes": 8180,
-      "sha256": "59ade4f68789ae53db91ed40f6886316020850878a652c6da923b463811f3b40",
+      "bytes": 7767,
+      "sha256": "c37a541297eb15d81b3edfc19bdf2e1fba2e7732af4364bc6dae42d1b3d232dc",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/db02-small-turn/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "6e4802099c36588ff7d28aa1e6e6e27ac644dc3d4ff46cd6bf0fbe34c9281806",
+      "bytes": 1220,
+      "sha256": "532916fb76ebc28269bce8a7317c371465abede81d1717d2b5bdf787fecbcae8",
       "errors": []
     },
     {
@@ -104,8 +104,8 @@
     },
     {
       "path": "midi/db03-offset-loop/db03-offset-loop-combined.mid",
-      "bytes": 8179,
-      "sha256": "f01b0ec04eeec757df81120ebc7ee904d8499d83507ec09381b634e50312ad11",
+      "bytes": 7767,
+      "sha256": "6fcac3741fd5275b0212ec400e7462f152291368839b1bba2c17a586dcf74688",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/db03-offset-loop/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "f45a24e291c1c39aceabe324099716ae6fccc2814e6f928a4214d13cdb20593a",
+      "bytes": 1220,
+      "sha256": "fffc7890a2bdcfddddec4a573691438ba8f2502725ac69968f94502d36f080b9",
       "errors": []
     },
     {
@@ -146,8 +146,8 @@
     },
     {
       "path": "midi/db04-clear-exit/db04-clear-exit-combined.mid",
-      "bytes": 8179,
-      "sha256": "deb33213e3ad5922e8d6392477744e9edeaa39c2bfc9cc9af27c0e747b1c6032",
+      "bytes": 7766,
+      "sha256": "974c81c77b7f8a7dd894c2e4ddec93bf414e72ec554e4b1c69f66e8c14a42737",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/db04-clear-exit/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "0c6ae357b86844bcc429542d3e03db3227832f38c5df50e99277df7d86d753ac",
+      "bytes": 1219,
+      "sha256": "6255d8e38c3dbd2c6b4bd27d7adb0bf739665fe51a5ffd2441faa4efcfc833e0",
       "errors": []
     },
     {
