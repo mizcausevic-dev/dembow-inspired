@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/dembow-inspired-midi.zip",
-      "bytes": 33428,
-      "sha256": "20af265959394a4c51338577abde7c372519debf98ad4edcd79aa7e18e341eb1"
+      "bytes": 35983,
+      "sha256": "ecae3950dbdc2382632aacd75edbe3b252761b2e0e578de6bcfa5f1497f6729e"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10227,
-      "sha256": "5e973eda3d1080ab75a23a91850cfdfe7a7333fadc4aaa4ba9f717e01c4a7012"
+      "bytes": 10417,
+      "sha256": "cf19cbc9e6f911c22ff9c959e426a9694cda2ee74fe90a0364979d12944b718f"
     },
     {
       "path": "midi/db01-repeat-frame/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "d5b1c0d5c319a26f730bfd273e22b663c670a77d29178d19c9ec7e615566b6c1"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 786,
       "sha256": "3613798e593f6e6419e08fca97a049030fb387826d99328a1ede609185a0e2c6"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3359,
-      "sha256": "61e2abdd5bb9b6f31461d3051a6701c0cb2f7cfc57d481c829669220b9a94585"
+      "bytes": 3474,
+      "sha256": "7a535a1689a2931f0c2377c085e5a11dcd39019c12f596adab6396ef2cd977ef"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
